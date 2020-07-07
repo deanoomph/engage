@@ -12,6 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+<h>
 <!--  Widget Code -->
 <script type="text/javascript">((function(){
                 var load=function(){
@@ -32,6 +33,7 @@ Syntax highlighted code block
             })())</script>
  <noscript><a href="https://www.acquire.io?welcome" title="live chat software">Acquire</a></noscript>
 <!-- / Widget Code -->
+  </h>
 ## Header 2
 ### Header 3
 
